@@ -16,3 +16,13 @@ Welcome to my GitHub learning repository!
 
 ## Motto
 Learn. Practice. Build. Repeat.
+
+## Day 1 – Git and GitHub
+
+- Installed Git on Windows.
+- Learned Git initialization.
+- Practiced staging and committing.
+- Connected local repository to GitHub.
+- Successfully pushed my first repository.
+
+Status: Completed!
